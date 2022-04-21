@@ -9,6 +9,8 @@ example).
 Design and run benchmarking tests for both methods, reflect on the results and
 conclude.
 
+![image](https://user-images.githubusercontent.com/79321698/164453892-78896809-ee60-4bf5-9fa5-bb474659524d.png)
+
 ## Hand in
 The link to the Github repository with the source code, the specified output from the
 programs, and a short note explaining why you made choices you did.
