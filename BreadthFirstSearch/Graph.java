@@ -9,7 +9,7 @@ public class Graph {
     private boolean isDirected;
 
     public Graph(boolean inputIsWeighted, boolean inputIsDirected) {
-        this.vertices = new ArrayList<Vertex>();
+        this.vertices = new ArrayList<>();
         this.isWeighted = inputIsWeighted;
         this.isDirected = inputIsDirected;
     }

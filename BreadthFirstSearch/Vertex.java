@@ -8,7 +8,7 @@ public class Vertex {
 
     public Vertex(String inputData) {
         this.data = inputData;
-        this.edges = new ArrayList<Edge>();
+        this.edges = new ArrayList<>();
     }
 
     public void addEdge(Vertex endVertex, Integer weight) {
